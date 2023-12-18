@@ -1,0 +1,18 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\JavaAddOns\\MyDependencies\\openjfx-21.0.1_windows-x64_bin-sdk\\javafx-sdk-21.0.1\\lib\\javafx.base.jar",
+        "c:\\JavaAddOns\\MyDependencies\\openjfx-21.0.1_windows-x64_bin-sdk\\javafx-sdk-21.0.1\\lib\\javafx.controls.jar",
+        "c:\\JavaAddOns\\MyDependencies\\openjfx-21.0.1_windows-x64_bin-sdk\\javafx-sdk-21.0.1\\lib\\javafx.fxml.jar",
+        "c:\\JavaAddOns\\MyDependencies\\openjfx-21.0.1_windows-x64_bin-sdk\\javafx-sdk-21.0.1\\lib\\javafx.graphics.jar",
+        "c:\\JavaAddOns\\MyDependencies\\openjfx-21.0.1_windows-x64_bin-sdk\\javafx-sdk-21.0.1\\lib\\javafx.media.jar",
+        "c:\\JavaAddOns\\MyDependencies\\openjfx-21.0.1_windows-x64_bin-sdk\\javafx-sdk-21.0.1\\lib\\javafx.swing.jar",
+        "c:\\JavaAddOns\\MyDependencies\\openjfx-21.0.1_windows-x64_bin-sdk\\javafx-sdk-21.0.1\\lib\\javafx.web.jar",
+        "c:\\JavaAddOns\\MyDependencies\\openjfx-21.0.1_windows-x64_bin-sdk\\javafx-sdk-21.0.1\\lib\\javafx-swt.jar",
+        "c:\\JavaAddOns\\MyDependencies\\mysql-connector-j-8.2.0\\mysql-connector-j-8.2.0\\mysql-connector-j-8.2.0.jar"
+    ],
+    "java.dependency.syncWithFolderExplorer": true,
+    "java.project.explorer.showNonJavaResources": false
+}
